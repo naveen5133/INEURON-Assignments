@@ -2,6 +2,9 @@ package in.ineuron.main;
 
 import java.util.Scanner;
 
+/*1. WAP to reverse a String.
+Input: “iNeuron”
+Output: “norueNi”*/
 
 /*public class IneuronAssignment3Strings {
 
@@ -25,7 +28,8 @@ import java.util.Scanner;
 		System.out.println(s2);*/
 
 //************************************************************************************
-		
+
+//WAP to check if the String is Anagram or not.
 /*public class IneuronAssignment3Strings {
 
      public static void main(String[] args) {
@@ -75,6 +79,7 @@ class str{
 
 //************************************************************************************
 
+//WAP to sort a String Alphabetically.
 /*public class IneuronAssignment3Strings {
 
 	public static void main(String[] args) {
@@ -99,6 +104,7 @@ class str{
 
 //********************************************************************************
 
+//WAP to count the number of Vowels and Consonants of a String value.
 /*public class IneuronAssignment3Strings {
 
 	public static void main(String[] args) {
@@ -126,7 +132,7 @@ class str{
 
 //********************************************************************************
 
-
+//WAP to count number of special characters.
 /*public class IneuronAssignment3Strings {
 
 	public static void main(String[] args) {
@@ -150,6 +156,7 @@ class str{
 
 //****************************************************************************
 
+//WAP to print repeatedly occurring characters in the given String.
 
 public class IneuronAssignment3Strings {
 
